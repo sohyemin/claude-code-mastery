@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -NoProfile -ExecutionPolicy ByPass -File \"C:\\\\Users\\\\sohyem\\\\.claude\\\\scripts\\\\statusline.ps1\")",
+      "Bash(echo \"EXIT:$?\")"
+    ]
+  },
+  "outputStyle": "Beginner Friendly"
+}
